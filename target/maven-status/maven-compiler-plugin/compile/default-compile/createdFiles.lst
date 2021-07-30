@@ -1,0 +1,5 @@
+com\virgingame\constants\Path.class
+com\virgingame\utils\PropertyReader.class
+com\virgingame\App.class
+com\virgingame\bingoinfo\BingoSteps.class
+com\virgingame\constants\EndPoints.class

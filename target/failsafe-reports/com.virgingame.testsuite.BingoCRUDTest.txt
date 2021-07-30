@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.virgingame.testsuite.BingoCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.605 sec - in com.virgingame.testsuite.BingoCRUDTest
